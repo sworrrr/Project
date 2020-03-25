@@ -1,0 +1,157 @@
+.newton{
+
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    margin: 0;
+    
+  }
+  .bgnewton {
+      /*background-color: #3cf891;*/
+      background-image: url("b12.gif");
+      background-repeat: no-repeat;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      font-size: calc(10px + 2vmin);
+      background-size: cover;
+      background-attachment: fixed;
+      justify-content: center;
+     
+      
+    }
+    
+    .nameconnewton{
+      position: relative;
+      bottom: 100px;
+      left: 540px;
+      align-items: center;
+    }
+    .example-inputfucnewton .ant-input {
+      width: 310px;
+      margin: 0 8px 8px 0;
+      position: relative;
+      color: white;
+      box-shadow: 0px 8px 20px 1px rgba(253, 253, 253, 0.726);
+      background-color: black;
+      left: 150px;
+      bottom: 30px;
+      align-items: center;
+  
+    }
+    .example-inputxnewton .ant-input {
+      width: 310px;
+      margin: 0 8px 8px 0;
+      position: relative;
+      color: white;
+      box-shadow: 0px 8px 20px 1px rgba(253, 253, 253, 0.726);
+      background-color: black;
+      right: 168px;
+      top: 20px;
+      align-items: center;
+  
+    }
+    
+    .resetnewton{
+      position: relative;
+      right: 465px;
+      top : 120px;
+      background-color: red;
+      text-shadow: 2px 2px 4px #000000;
+      cursor: pointer;
+      border: none;
+      padding: 4px 18px;
+      text-align: center;
+      font-size: 16px;
+      margin: 4px 2px;
+      opacity: 0.6;
+      transition: 0.3s;
+      display: inline-block;
+      text-decoration: none;
+      font-size: 20px;
+      color: rgba(240, 255, 240, 0.733);
+      border-radius: 12px;
+      align-items: center;
+      
+    }
+    .resetnewton:hover {
+      opacity: 1;
+      box-shadow: 0px 0px 12px 0px rgba(255, 0, 0, 0.678);
+    }
+    .submitnewton{
+      position: relative;
+      right: 462px;
+      top : 120px;
+      background-color: rgb(0, 219, 0);
+      text-shadow: 2px 2px 4px #000000;
+      cursor: pointer;
+      border: none;
+      padding: 4px 10px;
+      text-align: center;
+      font-size: 16px;
+      margin: 4px 2px;
+      opacity: 0.6;
+      transition: 0.3s;
+      display: inline-block;
+      text-decoration: none;
+      font-size: 20px;
+      color: rgba(240, 255, 240, 0.733);
+      border-radius: 12px;
+      align-items: center;
+    }
+    .submitnewton:hover {
+      opacity: 1;
+      box-shadow: 0px 0px 12px 0px rgba(71, 250, 0, 0.5);
+    }
+    
+    .apinewton{
+      position: relative;
+      right: 459px;
+      top : 120px;
+      background-color: rgb(195, 0, 255);
+      text-shadow: 2px 2px 4px #000000;
+      cursor: pointer;
+      border: none;
+      padding: 4px 10px;
+      text-align: center;
+      font-size: 16px;
+      margin: 4px 2px;
+      opacity: 0.6;
+      transition: 0.3s;
+      display: inline-block;
+      text-decoration: none;
+      font-size: 20px;
+      color: rgba(240, 255, 240, 0.733);
+      border-radius: 12px;
+      align-items: center;
+    }
+    .apinewton:hover {
+      opacity: 1;
+      box-shadow: 0px 0px 12px 0px rgba(253, 139, 253, 0.849);
+    }
+    
+    .homenewton{
+      position: relative;
+      right: 690px;
+      top : 230px;
+      background-color: rgb(19, 36, 58);
+      text-shadow: 2px 2px 4px #000000;
+      cursor: pointer;
+      border: none;
+      padding: 4px 60px;
+      text-align: center;
+      font-size: 16px;
+      margin: 4px 2px;
+      opacity: 0.6;
+      transition: 0.3s;
+      display: inline-block;
+      text-decoration: none;
+      font-size: 20px;
+      color: rgb(0, 0, 0);
+      border-radius: 12px;
+      align-items: center;
+    }
+    .homenewton:hover {
+      opacity: 1;
+      box-shadow: 0px 0px 12px 0px rgba(139, 184, 252, 0.603);
+    }

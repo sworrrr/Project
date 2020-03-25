@@ -1,0 +1,169 @@
+.bisect{
+
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  margin: 0;
+  
+}
+
+.bgbisect {
+    /*background-color: #3cf891;*/
+    background-image: url("b12.gif");
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    background-size: cover;
+    background-attachment: fixed;
+    justify-content: center;
+   
+    
+  }
+
+  .nameconB{
+    position: relative;
+    bottom: 100px;
+    left: 560px;
+    align-items: center;
+  }
+.example-inputfucB .ant-input {
+    width: 308px;
+    margin: 0 8px 8px 0;
+    position: relative;
+    color: white;
+    box-shadow: 0px 8px 20px 1px rgb(255, 255, 255);
+    background-color: black;
+    left: 180px;
+    bottom: 30px;
+    align-items: center;
+
+  } 
+.example-inputxlB .ant-input {
+   
+    width: 150px;
+    margin: 0 8px 8px 0;
+    position: relative;
+    color: white;
+    box-shadow: 0px 8px 20px 1px rgba(253, 253, 253, 0.726);
+    background-color: black;
+    align-items: center;
+    right: 135px;
+    top: 20px;
+  }
+  .example-inputxrB .ant-input {
+    width: 150px;
+    margin: 0 8px 8px 0;
+    position: relative;
+    color: white;
+    box-shadow: 0px 8px 20px 1px rgba(253, 253, 253, 0.726);
+    background-color: black;
+    align-items: center;
+    right: 135px;
+    top: 20px;
+  }
+
+  .resetB{
+    position: relative;
+    right: 435px;
+    top : 120px;
+    background-color: red;
+    text-shadow: 2px 2px 4px #000000;
+    cursor: pointer;
+    border: none;
+    padding: 4px 18px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    border-radius: 12px;
+    align-items: center;
+    
+  }
+  .resetB:hover {
+    opacity: 1;
+    box-shadow: 0px 0px 12px 0px rgba(255, 0, 0, 0.678);
+  }
+  .submitB{
+    position: relative;
+    right: 430px;
+    top : 120px;
+    background-color: rgb(0, 219, 0);
+    text-shadow: 2px 2px 4px #000000;
+    cursor: pointer;
+    border: none;
+    padding: 4px 10px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgba(240, 255, 240, 0.733);
+    border-radius: 12px;
+    align-items: center;
+  }
+  .submitB:hover {
+    opacity: 1;
+    box-shadow: 0px 0px 12px 0px rgba(71, 250, 0, 0.5);
+  }
+  
+  .apibisect{
+    position: relative;
+    right: 426px;
+    top : 120px;
+    background-color: rgb(195, 0, 255);
+    text-shadow: 2px 2px 4px #000000;
+    cursor: pointer;
+    border: none;
+    padding: 4px 10px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgba(240, 255, 240, 0.733);
+    border-radius: 12px;
+    align-items: center;
+  }
+  .apibisect:hover {
+    opacity: 1;
+    box-shadow: 0px 0px 12px 0px rgba(253, 139, 253, 0.849);
+  }
+  
+  .homebisect{
+    position: relative;
+    right: 658px;
+    top : 230px;
+    background-color: rgb(19, 36, 58);
+    text-shadow: 2px 2px 4px #000000;
+    cursor: pointer;
+    border: none;
+    padding: 4px 60px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    border-radius: 12px;
+    align-items: center;
+  }
+  .homebisect:hover {
+    opacity: 1;
+    box-shadow: 0px 0px 12px 0px rgba(139, 184, 252, 0.603);
+  }
